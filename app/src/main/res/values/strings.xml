@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CloneNetflix</string>
+    <string name="recado">O acesso está protegido pelo Google reCAPTCHA \n para garantir que você não é um robô. Saiba mais.
+    </string>
+</resources>
